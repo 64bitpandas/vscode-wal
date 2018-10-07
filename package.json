@@ -4,6 +4,7 @@
     "description": "A wal color theme for vscode",
     "version": "0.0.1",
     "publisher": "Bluedrack28",
+    "repository":"https://github.com/Bluedrack28/vscode-wal",
     "engines": {
         "vscode": "^1.24.0"
     },

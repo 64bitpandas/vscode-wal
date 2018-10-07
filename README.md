@@ -10,7 +10,7 @@
 
 # Screenshot
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/Bluedrack28/vscode-wal/blob/master/screenshot.png)
 
 # **HELP ME !**
 
