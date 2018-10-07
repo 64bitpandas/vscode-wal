@@ -3,10 +3,10 @@
 
 # How to install the theme
 
-1. install [pywal](https://github.com/dylanaraps/pywal)
-2. download the repository with `git clone https://github.com/Bluedrack28/vscode-wal.git ~/.vscode/extensions/`
-3. in the repository `./script.js` who will install the current template for vscode in the pywal templates
-4. normally run `wal -R` and select the theme in vscode
+1. Install [pywal](https://github.com/dylanaraps/pywal).
+2. Download the vsix plugin [from the releases](https://github.com/dbqeo/vscode-wal/releases/).
+3. Install by going to your extensions panel in VSCode, clicking the menu dots, and selecting "Install from VSIX..."
+4. Run `wal -R` normally and select the theme in VSCode
 
 # Screenshot
 

@@ -2,7 +2,7 @@
     "name": "vs-wal",
     "displayName": "vs-wal",
     "description": "A wal color theme for vscode",
-    "version": "0.0.1",
+    "version": "1.0.0-alpha",
     "publisher": "Bluedrack28",
     "repository":"https://github.com/Bluedrack28/vscode-wal",
     "engines": {
