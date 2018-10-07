@@ -19,5 +19,8 @@
                 "path": "./themes/vs-wal-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "postinstall": "./script.sh"
     }
 }
